@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy, Inc.
 
 ## Description
 Web application for Run Buddy, a fitness training service.
@@ -21,6 +21,6 @@ https://dylanhay.github.io/runbuddy/
 ![Screenshot](./assets/images/rb-land.png "Landing Page")
 
 ## Contribution
-Made with ❤️ by Dylan Hay
+Built by Dylan Hay
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc.
