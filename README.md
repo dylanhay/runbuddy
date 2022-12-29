@@ -1,14 +1,24 @@
 # Run Buddy, Inc
 
-## Purpose
-A website that offers fitness training services. 
+## Description
+Web application for Run Buddy, a fitness training service.
 
+## Table of Contents
+[Deployed Application](#deployed-application)  
+[Built With](#built-with)  
+[Landing Page](#landing-page)  
+[Contribution](#contribution) 
+
+## Deployed Application
+https://dylanhay.github.io/runbuddy/
 ## Built With
 * HTML
 * CSS
+* Git
+* GitHub Pages
 
-## Website
-https://dylanhay.github.io/runbuddy/
+## Landing Page
+![Screenshot](./assets/images/rb-land.png "Landing Page")
 
 ## Contribution
 Made with ❤️ by Dylan Hay
