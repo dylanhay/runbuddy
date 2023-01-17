@@ -17,6 +17,7 @@ https://www.gnu.org/licenses/gpl-3.0
 
 ## Deployed Application
 https://dylanhay.github.io/runbuddy/
+
 ## Built With
 * HTML
 * CSS
